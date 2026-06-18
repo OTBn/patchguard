@@ -1,4 +1,4 @@
-# patchguard
+# PatchGuard
 OT/ICS Vulnerability Management Platform# PatchGuard - OT/ICS Vulnerability Management Platform
 
 ![PatchGuard](https://img.shields.io/badge/version-0.1.0-blue)
