@@ -46,10 +46,9 @@ python agent/scanner.py
 
 # Open browser
 http://localhost:8000/dashboard
- '''
+ 
 
-
-    ###Project Structure
+Project Structure
 
 patchguard/
 ├── agent/                 # Client-side scanner
