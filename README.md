@@ -69,3 +69,7 @@ patchguard/
 ├── tests/              # Unit tests
 └── README.md
 
+
+---
+
+### **File 2: requirements.txt** (Root)
