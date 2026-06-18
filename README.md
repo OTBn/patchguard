@@ -46,3 +46,24 @@ python agent/scanner.py
 
 # Open browser
 http://localhost:8000/dashboard
+
+## *Project Structure*
+
+patchguard/
+├── agent/                 # Client-side scanner
+│   ├── scanner.py
+│   ├── config.json
+│   └── requirements.txt
+├── server/               # FastAPI backend
+│   ├── api.py
+│   ├── database.py
+│   └── requirements.txt
+├── cve_engine/          # CVE checking
+│   └── checker.py
+├── dashboard/           # Web UI
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+├── docs/               # Documentation
+├── tests/              # Unit tests
+└── README.md
