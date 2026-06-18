@@ -71,5 +71,4 @@ patchguard/
 
 
 ---
-
-### **File 2: requirements.txt** (Root)
+ **File 2: requirements.txt** (Root)
